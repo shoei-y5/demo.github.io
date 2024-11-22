@@ -333,6 +333,7 @@ footer p {
   }
   header .navi {
     width: 300px;
+    height: 100%;
     background-color: #fff;
     padding: 25px;
     position: fixed;
