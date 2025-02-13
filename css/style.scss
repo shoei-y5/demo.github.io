@@ -74,7 +74,6 @@ header {
 
   .navi {
     font-size: 0.875rem;
-
     .nav-menu {
       margin-bottom: 4.75rem;
     }
@@ -471,6 +470,7 @@ footer {
   #mask {
     display: none;
     transition: 0.5s;
+    z-index: 10;
 
     &.active {
       width: 100%;
